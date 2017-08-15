@@ -1,0 +1,71 @@
+automaçao mobile
+
+apple 
+requesito osx+xcode
+-appium
+-carthpge
+-libimobile device
+-node js
+
+estrutura appium
+
+selenium grid é um selenium
+
+selenium grid-paralelismo -e quando eu trabalho em execuçoes em um mesmo CT em diversas plataformas
+(varios celulares )
+
+cross browser - quando eu tenho diferentes navegadores
+
+
+
+treinamento automação Everson
+
+
+22/-07/2017
+contrl + 1 - gera o
+f3 ele para o metodo
+
+
+ 
+plugin -- allure/config
+extent report - pesquisar
+
+
+Arquitetura
+
+no eclipse
+
+contrl+shift+R ---BUSCA CLASSES
+
+Pesquisar sington, o que é?
+criar uma branch
+atividade , criar projeto com 3 pattern , cria mesmo projeto 
+na nossa propria brench
+	estudar 
+
+--design patterns
+--tecnicas avançadas de orientaçao objetos
+--xpath
+--expressoes regulares regex
+--testes
+
+			exercicio para casa
+criar branch pessoal nome completo
+usar nos mesmos pacotes
+criar 3 classes novas-criar um teste, criar uma feature, teste com cucumber,pageObject,pageFactori
+Tela que precisa fazer Preços e prazos
+validação 7 elementos
+8 cenarios
+
+
+
+
+
+cross browser - executa mesmo teste em varios navegadores
+
+AGIL -QUE SE MOVIMENTA COM RAPIDEZ
+INDIVIDUOS E INTERAÇOES
+12 principios agile
+Scrum - nao é metodologia e sim é o framework
+
+estudar sobre maven e seus plugins
